@@ -1,0 +1,5 @@
+phpmyprofiler-plugins
+
+Some php extensions for phpmyprofiler (http://www.phpmyprofiler.de/).
+
+Currently, only the quicksearch is functioning, but requires some modifications in the phpmyprofiler files.

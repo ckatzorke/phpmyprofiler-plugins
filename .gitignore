@@ -1,0 +1,14 @@
+#ignore target
+target/
+
+#ignore eclipse files
+.classpath
+.project
+.settings
+.buildpath
+
+#ignore sts files
+.springBeans
+
+#ignore swp
+*.swp
